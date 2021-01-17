@@ -1,4 +1,4 @@
-## **AdaBoost **
+## **AdaBoost**
 
 The binary ADABOOST algorithm
 ADABOOST is an ensemble (or meta-learning) method that constructs a classifier in an iterative fashion. In each
