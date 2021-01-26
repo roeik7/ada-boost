@@ -1,7 +1,6 @@
 ## **AdaBoost**
 
-The binary ADABOOST algorithm
-ADABOOST is an ensemble (or meta-learning) method that constructs a classifier in an iterative fashion. In each
+The binary ADABOOST algorithm is an ensemble (or meta-learning) method that constructs a classifier in an iterative fashion. In each
 iteration, it calls a simple learning algorithm (called the base learner) that returns a classifier, and assigns a weight
 coefficient to it. The final classification will be decided by a weighted “vote” of the base classifiers. The smaller
 the error of the base classifier, the larger is its weight in the final vote. The base classifiers have to be only slightly
