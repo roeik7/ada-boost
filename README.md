@@ -17,3 +17,6 @@ set its coefficient α
 h : Rd → {−1, 1}, and the base learner executes an exhaustive search over H in each iteration. The output of
 ADABOOST is a discriminant function constructed as a weighted vote of the base classifiers - 
 f(T )(x) ,T∑t=1α(t)h(t)(x).
+
+
+
