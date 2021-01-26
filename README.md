@@ -1,6 +1,3 @@
-https://github.com/roeik7/ada-boost/issues/1#issue-794009393
-
-
 ## **AdaBoost**
 
 The binary ADABOOST algorithm is an ensemble (or meta-learning) method that constructs a classifier in an iterative fashion. In each
@@ -22,4 +19,7 @@ ADABOOST is a discriminant function constructed as a weighted vote of the base c
 f(T )(x) ,T∑t=1α(t)h(t)(x).
 
 
+
+Here you can see how the algorithm improves as the steps progress
+![Figure_5](https://user-images.githubusercontent.com/48287470/105814642-618b3180-5fba-11eb-87d5-d19ae801b8d3.png)
 
