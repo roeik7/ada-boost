@@ -20,12 +20,13 @@ f(T )(x) ,T∑t=1α(t)h(t)(x).
 
 
 
-Here you can see how the algorithm improves as the steps progress <br/>
+Here you can see how the algorithm improves as the steps progress (t=10) <br/>
 
-t=10 <br/>
+<br/>
 ![Figure_5](https://user-images.githubusercontent.com/48287470/105814642-618b3180-5fba-11eb-87d5-d19ae801b8d3.png)
 
-
+<br/>
+<br/>
 t=17 <br/>
 
 ![Figure_3](https://user-images.githubusercontent.com/48287470/105815267-5684d100-5fbb-11eb-89ec-8b49a2fc9529.png)
