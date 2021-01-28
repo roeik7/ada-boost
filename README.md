@@ -23,7 +23,7 @@ f(T )(x) ,T∑t=1α(t)h(t)(x).
 Here you can see how the algorithm improves as the steps progress (t=10) <br/>
 
 <br/>
-![Figure_5](https://user-images.githubusercontent.com/48287470/105814642-618b3180-5fba-11eb-87d5-d19ae801b8d3.png)
+![image](https://user-images.githubusercontent.com/48287470/106155353-415d9d00-6189-11eb-9881-4bfbe6e37dfc.png)
 
 <br/>
 <br/>
